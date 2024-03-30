@@ -1,0 +1,11 @@
+C:\Users\Ashutosh Prasad\source\repos\LeetCodePrep\LeetCodePrep\bin\Debug\netcoreapp2.1\LeetCodePrep.deps.json
+C:\Users\Ashutosh Prasad\source\repos\LeetCodePrep\LeetCodePrep\bin\Debug\netcoreapp2.1\LeetCodePrep.runtimeconfig.json
+C:\Users\Ashutosh Prasad\source\repos\LeetCodePrep\LeetCodePrep\bin\Debug\netcoreapp2.1\LeetCodePrep.runtimeconfig.dev.json
+C:\Users\Ashutosh Prasad\source\repos\LeetCodePrep\LeetCodePrep\bin\Debug\netcoreapp2.1\LeetCodePrep.dll
+C:\Users\Ashutosh Prasad\source\repos\LeetCodePrep\LeetCodePrep\bin\Debug\netcoreapp2.1\LeetCodePrep.pdb
+C:\Users\Ashutosh Prasad\source\repos\LeetCodePrep\LeetCodePrep\obj\Debug\netcoreapp2.1\LeetCodePrep.csproj.AssemblyReference.cache
+C:\Users\Ashutosh Prasad\source\repos\LeetCodePrep\LeetCodePrep\obj\Debug\netcoreapp2.1\LeetCodePrep.csproj.CoreCompileInputs.cache
+C:\Users\Ashutosh Prasad\source\repos\LeetCodePrep\LeetCodePrep\obj\Debug\netcoreapp2.1\LeetCodePrep.AssemblyInfoInputs.cache
+C:\Users\Ashutosh Prasad\source\repos\LeetCodePrep\LeetCodePrep\obj\Debug\netcoreapp2.1\LeetCodePrep.AssemblyInfo.cs
+C:\Users\Ashutosh Prasad\source\repos\LeetCodePrep\LeetCodePrep\obj\Debug\netcoreapp2.1\LeetCodePrep.dll
+C:\Users\Ashutosh Prasad\source\repos\LeetCodePrep\LeetCodePrep\obj\Debug\netcoreapp2.1\LeetCodePrep.pdb
